@@ -1,0 +1,83 @@
+/* Full Website Effectors */
+
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+body {
+	background-color: wheat;
+}
+
+/* Heading Effectors */
+
+.header {
+	height: 100px;
+	background-color: white;
+	margin-bottom: 100px;
+}
+
+/* Profile Section Effectors */
+
+.profileText {
+	font-size: 30px;
+	width: 60%;
+
+}
+
+.profileContainer {
+	width: 83.33%;
+	margin-left: 8.33%;
+}
+
+ul {
+	list-style: none;
+}
+
+/* General Effectors */
+
+.fltLeft {
+	float: left;
+}
+
+.fltRight {
+	float: right;
+}
+
+
+
+.test {
+	width: 25%;
+}
+
+
+.para {
+	margin: 0 50px;
+	font-size: 2em;
+	border: 2px solid white;
+}
+
+section {
+	width: 50%;
+	float: left;
+}
+
+
+.header2 {
+	color: white;
+	margin: 50px;
+	font-size: 3em;
+}
+
+section::after {
+	float: none;
+}
+
+
+.test {
+	width: 50%;
+	float: left;
+	margin: 50px 50px 0px 50px;
+}
+
+
